@@ -3,7 +3,7 @@
 <h2 align="center">About me</h2>
 
 ```js
-const aboutMe = {
+const AboutMe = {
   Mame: "Arunava",
   Age: 17,
   Pronouns: ["He", "Him"],
