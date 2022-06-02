@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I am AG !</h1>
+<h1 align="center">Hi there, I am <b>AG</b>  <img src="https://www.emoji.co.uk/files/apple-emojis/smileys-people-ios/90-waving-hand-sign.png" width="30px"></h1>
 
 <h2 align="center">About me</h2>
 
@@ -12,7 +12,7 @@ const aboutMe = {
   ]
 }
 ```
-<h1 align="center">Tech Stack </></h1>
+<h1 align="center">My Tech Stack </></h1>
 
 <div align="center" style="margin-top: 10px">
   <h3>Languages</h3>
@@ -36,9 +36,3 @@ const aboutMe = {
   <img src="https://github-readme-stats.vercel.app/api?username=its-ag&theme=dark">
   
 </div>
-
-
-<!---
-its-ag/its-ag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
