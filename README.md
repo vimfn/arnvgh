@@ -4,7 +4,7 @@
 
 ```js
 const AboutMe = {
-  Mame: "Arunava",
+  Name: "Arunava",
   Age: 17,
   Pronouns: ["He", "Him"],
   Hobbies: [
