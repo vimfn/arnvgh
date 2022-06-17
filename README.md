@@ -31,8 +31,8 @@ const AboutMe = {
   <img src="https://img.shields.io/badge/-github-whitesmoke?style=for-the-badge&labelColor=whitesmoke&logo=github&logoColor=black">
   <img src="https://img.shields.io/badge/-Node JS-darkgreen?style=for-the-badge&labelColor=darkgreen&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/-Photoshop-skyblue?style=for-the-badge&labelColor=skyblue&logo=nodedotjs&logoColor=white">
-  <br>
+<!--   <br>
   <h2>Github Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=its-ag&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=its-ag&theme=dark"> -->
   
 </div>
