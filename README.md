@@ -36,3 +36,7 @@ const AboutMe = {
   <img src="https://github-readme-stats.vercel.app/api?username=its-ag&theme=dark"> -->
   
 </div>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=itsag.itag&" />
+
+©️ Arunava Ghosh
