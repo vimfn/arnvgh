@@ -37,6 +37,8 @@ const AboutMe = {
   
 </div>
 
+<div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=itsag.itag&" />
 
 ©️ Arunava Ghosh
+</div>
