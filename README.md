@@ -51,3 +51,9 @@ const AboutMe = {
 <a href="https://discord.com/users/968448572641124352">
      <img src="https://lanyard.cnrad.dev/api/968448572641124352" width="400" height="200" />
 </a>
+
+<div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=itsag.itag&" />
+
+©️ Arunava Ghosh
+</div>
