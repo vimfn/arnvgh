@@ -40,7 +40,7 @@ const AboutMe = {
 
 ## My Projects  📁
 
-- [**realtime-chat-client**](https://github.com/its-ag): Real Time chat messanging app with React, Firebase and Chat Engine. // Working on it.
+- [**realtime-chat-client**](https://github.com/its-ag): Real Time chat messaging app with React, Firebase and Chat Engine. // Working on it.
 - [**better-pw**](https://betterpw.live): Lightweight Client for the Physics Wallah education platform, built with my friends.
 - [**arunava.tech**](https://arunava.tech/): Files for my website. // Will make it public soon.
 - [**discord-moderation-bot**](https://github.com/): Discord Bot for moderation made using discordjs. // Working on it.
