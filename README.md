@@ -19,7 +19,7 @@ const AboutMe = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,css,html,discord,bootstrap,tailwindcss,react,nextjs,mysql,firebase,photoshop,figma,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,css,html,discord,typescript,tailwindcss,react,nextjs,mysql,firebase,mongodb,figma,vscode,git" />
   </a>
 </p>
 
@@ -40,11 +40,11 @@ const AboutMe = {
 
 ## My Projects  📁
 
+- [**arunava.tech**](https://arunava.tech/): Files for my website.
 - [**realtime-chat-client**](https://github.com/its-ag): Real Time chat messanging app with React, Firebase and Chat Engine. // Working on it.
 - [**better-pw**](https://betterpw.live): Lightweight Client for the Physics Wallah education platform, built with my friends.
-- [**arunava.tech**](https://arunava.tech/): Files for my website. // Will make it public soon.
 - [**discord-moderation-bot**](https://github.com/): Discord Bot for moderation made using discordjs. // Working on it.
-- And there are many Private projects and Future Projects (Will Implement After Exams) :D
+- And there are many Private Repos and Future Projects (Will Implement After Exams) :D
 
 ## Discord Status 💻
 
