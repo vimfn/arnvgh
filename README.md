@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I am <b> <a href="https://arunava.tech"> Arunava</a> </b>  <img src="https://www.emoji.co.uk/files/apple-emojis/smileys-people-ios/90-waving-hand-sign.png" width="30px"></h1>
+<h1 align="center">Hi there, I am <b> <a href="https://hi.arunava.tech"> Arunava</a> </b>  <img src="https://www.emoji.co.uk/files/apple-emojis/smileys-people-ios/90-waving-hand-sign.png" width="30px"></h1>
 
 ```js
 const AboutMe = {
@@ -11,7 +11,7 @@ const AboutMe = {
 }
 ```
 
-#### I’m a Student, Web Developer, and Linux Enthusiast. (More into Frontend and UI/UX Desgin) 
+#### I’m a Student, Web Developer, and Linux Enthusiast. 
      
 ![yeye](https://media.discordapp.net/attachments/870569585772994631/1001429472760827984/1001000810483830847_1.gif)
 
@@ -40,10 +40,12 @@ const AboutMe = {
 
 ## My Projects  📁
 
-- [**arunava.tech**](https://arunava.tech/): Files for my website.
-- [**realtime-chat-client**](https://github.com/its-ag): Real Time chat messanging app with React, Firebase and Chat Engine. // Working on it.
-- [**better-pw**](https://betterpw.live): Lightweight Client for the Physics Wallah education platform, built with my friends.
-- [**discord-moderation-bot**](https://github.com/): Discord Bot for moderation made using discordjs. // Working on it.
+- [**arunava.tech**](https://arunava.tech/): Files for my personal website (Built With Next JS and Tailwind CSS).
+- [**Agazon**](https://github.com/its-ag/agazon): React, Firebase based eCommerce Site, integrated with Stripe API. // Work in pogress.
+- [**Better PW**](https://p.arunava.tech): Lightweight Client for the Physics Wallah education platform, built with my friends.
+- [**LinkZia**](http://hi.arunava.tech/): LinkTree Alternative -  LinkZia is a links manager, built with Astro and Tailwind CSS .
+- [**rChat**](https://github.com/its-ag): Real Time chat messanging app with React, Firebase and Chat Engine. // Work in pogress.
+- [**Thor**](https://github.com/its-ag): Discord Bot for moderation made using discordjs. // Work in pogress.
 - And there are many Private Repos and Future Projects (Will Implement After Exams) :D
 
 ## Discord Status 💻
