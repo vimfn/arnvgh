@@ -43,7 +43,7 @@ const AboutMe = {
 - [**arunava.tech**](https://arunava.tech/): Files for my personal website (Built With Next JS and Tailwind CSS).
 - [**Agazon**](https://shop.arunava.tech/): React, Firebase based eCommerce Site, integrated with Stripe API. // Work in pogress.
 - [**Better PW**](https://p.arunava.tech): Lightweight Client for the Physics Wallah education platform, built with my friends.
-- [**LinkZia**](https://hi.arunava.tech/): LinkTree Alternative -  LinkZia is a links manager, built with Astro and Tailwind CSS .
+- [**LinkZia-v2**](https://hi.arunava.tech/): LinkTree Alternative -  LinkZia is the Ultimate links manager, built with NextJS, Tailwind CSS, Spotify API.
 - [**rChat**](https://github.com/its-ag): Real Time chat messanging app with React, Firebase and Chat Engine. // Work in pogress.
 - [**Thor**](https://github.com/its-ag): Discord Bot for moderation made using discordjs. // Work in pogress.
 - And there are many Private Repos and Future Projects (Will Implement After Exams) :D
