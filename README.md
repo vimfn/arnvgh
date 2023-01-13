@@ -59,9 +59,8 @@ const AboutMe = {
 <a href="https://github.com/its-ag">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-ag&amp;show_icons=true&amp;theme=radical" height="160" witdh="480" />
 </a></details>
-
+<hr />
 <div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=itsag.itag&" />
-
 ©️ Arunava Ghosh
 </div>
