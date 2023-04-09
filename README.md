@@ -1,3 +1,13 @@
+<div align="center">
+  <a href="https://arunava.tech/" target="_blank" rel="noopener">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Arunava%20Ghosh&fontSize=50&fontAlignY=30&desc=Web%20Developer%20|%20arunava.tech&descAlignY=50"/>
+  </a>
+</div>
+
+<details>
+  <summary>
+   toggle
+  </summary>
 <h1 align="center">Hi there, I am <b> <a href="https://hi.arunava.tech"> Arunava</a> </b>  <img src="https://www.emoji.co.uk/files/apple-emojis/smileys-people-ios/90-waving-hand-sign.png" width="30px"></h1>
 
 ```js
@@ -64,3 +74,4 @@ const AboutMe = {
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=itsag.itag&" />
 ©️ Arunava Ghosh
 </div>
+</details>
