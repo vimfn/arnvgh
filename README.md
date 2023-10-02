@@ -3,10 +3,10 @@
 <p>
   
   <samp>
-    <a href="https://arnvgh.me">me</a> ✦ 
-    <a href="https://wakatime.com/@arnvgh">coding stats</a> ✦ 
-    <a href="https://read.cv/arnvgh">cv</a> ✦ 
-    <a href="https://x.com/arnvgh">tweets</a> 
+    <a target="_blank" href="https://arnvgh.me">me</a> ✦ 
+    <a target="_blank" href="https://wakatime.com/@arnvgh">coding stats</a> ✦ 
+    <a target="_blank" href="https://read.cv/arnvgh">cv</a> ✦ 
+    <a target="_blank" href="https://x.com/arnvgh">tweets</a> 
     <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=itsag.itag&.visitor-badge&right_color=black&left_text=hits&format=true" />
   </samp>
   
